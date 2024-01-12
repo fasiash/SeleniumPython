@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_login.py:46 ******Verifying Login test********
+[32mINFO    [0m root:test_login.py:58 ******login test is passed********

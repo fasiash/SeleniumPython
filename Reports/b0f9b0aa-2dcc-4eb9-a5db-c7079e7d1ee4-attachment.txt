@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_searchCustomerByName.py:23 ************* SearchCustomerByName_005 **********
+[32mINFO    [0m root:test_searchCustomerByName.py:32 ************* Login succesful **********
+[32mINFO    [0m root:test_searchCustomerByName.py:34 ******* Starting Search Customer By Name **********
+[32mINFO    [0m root:test_searchCustomerByName.py:43 ************* searching customer by Name **********
+[32mINFO    [0m root:test_searchCustomerByName.py:52 ***************  TC_SearchCustomerByName_005 Finished  ***********
